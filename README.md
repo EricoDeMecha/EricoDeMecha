@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [![Github](https://img.shields.io/github/followers/EricoDeMecha?label=Follow&style=social)](https://github.com/EricoDeMecha)
-[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=EricoDeMecha)](https://github.com/EricoDeMecha)
 [![Mail](https://img.shields.io/badge/-EricoDeMecha-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:techcider4134@gmail.com)
 
 
