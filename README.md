@@ -1,17 +1,5 @@
 ### Hi there 👋
 
-[![Github](https://img.shields.io/github/followers/EricoDeMecha?label=Follow&style=social)](https://github.com/EricoDeMecha)
-[![Mail](https://img.shields.io/badge/-EricoDeMecha-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:techcider4134@gmail.com)
-
-
-<center>
-  <table>
-  <tr>
-      <td><img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=EricoDeMecha&count_private=true&show_icons=true&theme=light&layout=compact" /></td>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricoDeMecha&hide=html&layout=compact&theme=light" /></td>      
-  </tr>   
-</table>
-</center>
 <!--
 **EricoDeMecha/EricoDeMecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Github](https://img.shields.io/github/followers/EricoDeMecha?label=Follow&style=social)](https://github.com/EricoDeMecha)
+[![Mail](https://img.shields.io/badge/-EricoDeMecha-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:techcider4134@gmail.com)
+[![Erico's github stats](https://github-readme-stats.vercel.app/api?username=EricoDeMecha&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricoDeMecha&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Erico's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EricoDeMecha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
