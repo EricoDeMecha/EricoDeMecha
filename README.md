@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Github](https://img.shields.io/github/followers/aaronkip?label=Follow&style=social)](https://github.com/EricoDeMecha)
+[![Github](https://img.shields.io/github/followers/EricoDeMecha?label=Follow&style=social)](https://github.com/EricoDeMecha)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=aaronkip)](https://github.com/EricoDeMecha)
 [![Mail](https://img.shields.io/badge/-Aaron-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:techcider4134@gmail.com)
 
