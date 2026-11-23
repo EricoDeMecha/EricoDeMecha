@@ -16,6 +16,7 @@ Embedded systems engineer based in Nairobi. I work across firmware, embedded use
 | [Security Multi-Tool](https://erickkoech.com/work/round-amoled-wearable) | Modular NFC, Sub-GHz, infrared, Wi-Fi and BLE research device on STM32U5 and ESP32-C5. |
 | [Touch Dash](https://erickkoech.com/work/touch-race-dash) | In-car dashboard application for Android, Linux and RK3568, deployed in the UAE. |
 | [Filling line control](https://erickkoech.com/work/industrial-filling-line) | Distributed CAN control for a seven-station industrial filling line. |
+| [SQOasis](https://erickkoech.com/work/sqoasis) | Multi-node sensor network on custom KiCad boards: one STM32 bridge routing CAN, nRF24, Wi-Fi and RS485 to a Qt HMI on a CM4. |
 | [Industrial CAD](https://erickkoech.com/work/industrial-cad) | Fabrication-ready machine and sheet-metal design. |
 
 #### Technologies
